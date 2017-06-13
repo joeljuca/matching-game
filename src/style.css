@@ -1,0 +1,17 @@
+.board {
+  background: #eee;
+  border: solid 5px black;
+  height: 400px;
+  width: 400px;
+  font-size: 50px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.card {
+  width: 98px;
+  height: 98px;
+  background: black;
+  float: left;
+  border: solid 1px white;
+}
